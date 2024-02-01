@@ -4,8 +4,7 @@ _________________________________________
 ##### Raphaël BEAU  
 _________________________________________
 
-##### Des projets dans les langages que j'ai effectués.
-##### Matières : DEV
- langage C\
->       -Snake
->       -Memory
+#### Des projets dans les langages que j'ai effectués.
+#### langage C\
+-Snake
+-Memory
