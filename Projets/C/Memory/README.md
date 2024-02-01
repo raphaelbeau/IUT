@@ -5,10 +5,10 @@ _________________________________________
 _________________________________________
 
 ##### **Intro du projet :**
-En entrainement pour le projet du langage C de l'année 2030-2024, j'ai programmé le jeu du jeu de paire aussi appelé _Memory_. Ce projet était celui de l'année 2022-2023.\
+En entrainement pour le projet du langage C de l'année 2023-2024, j'ai programmé le jeu du jeu de paire aussi appelé _Memory_. Ce projet était celui de l'année 2022-2023.
 
 ##### **Source :**
-Nous avons utilisé la [bibliothèque graphique](http://www.iut-fbleau.fr/sitebp/doc/doc_bib_graphique/index.php) founie par notre IUT.\
+J'ai utilisé la [bibliothèque graphique](http://www.iut-fbleau.fr/sitebp/doc/doc_bib_graphique/index.php) founie par notre IUT.\
 Tout le programme est sinon effectué en C89.
 
 ##### **Construction :**
