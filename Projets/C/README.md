@@ -6,4 +6,4 @@ _________________________________________
 
 #### langage C
 -[Snake](https://github.com/raphaelbeau/IUT/tree/main/Projets/C/Snake)\
--[Memory](https://github.com/raphaelbeau/IUT/tree/main/Projets/C/Memory)\
+-[Memory](https://github.com/raphaelbeau/IUT/tree/main/Projets/C/Memory)
